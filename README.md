@@ -181,7 +181,7 @@ AUTHORNAME - [@AUTHORNAME](https://github.com/AUTHORNAME) - [e-mail](mailto:samp
     <div style="display:flex; flex:wrap; justify-content:space-around; --w:100%">
         <div style="display:flex; flex:wrap; flex-direction: column; width:30%; justify-content:center; align-content:center;">
             <a href="https://www.linkedin.com/in/angeloschronis/">
-            <img src="https://urbanai.fr/wp-content/uploads/2023/04/Angelos-Chronis-Head-of-the-City-Intelligence-Lab-at-the-Austrian-Institute-of-Technology-1.png" style="filter: grayscale(100%);" alt="Angelos Chronis" width=250 style="filter: grayscale(100%);"></a>
+            <img src="https://i1.rgstatic.net/ii/profile.image/804508145823746-1568821097827_Q512/Angelos-Chronis.jpg" style="filter: grayscale(100%);" alt="Angelos Chronis" width=250 style="filter: grayscale(100%);"></a>
             <a href="https://www.linkedin.com/in/angeloschronis/"> Angelos Chronis </a>
         </div>
         <div style="display:flex; flex:wrap; flex-direction: column; width:30%; justify-content:center; ">
