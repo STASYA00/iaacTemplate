@@ -175,27 +175,21 @@ AUTHORNAME - [@AUTHORNAME](https://github.com/AUTHORNAME) - [e-mail](mailto:samp
 
 <br />
 <div style="width:100;" width=100%>
-    <div style="width:60%;" width=60%>
+    <div>
         <a href="https://iaac.net">
-            <img src="https://globalschool.iaac.net/wp-content/uploads/2019/02/IAAClogo2.png" width=60%>
+            <img src="https://globalschool.iaac.net/wp-content/uploads/2019/02/IAAClogo2.png" width=60.5%>
         </a>
     </div>
     <div style="display:flex; flex-direction: row; flex:wrap; justify-content:space-around;">
-        <div style="width:30%" width=30%>
-            <a href="https://www.linkedin.com/in/angeloschronis/">
-            <img src="https://i1.rgstatic.net/ii/profile.image/804508145823746-1568821097827_Q512/Angelos-Chronis.jpg" style="filter: grayscale(100%);" alt="Angelos Chronis" width=30% style="filter: grayscale(100%);"></a>
-            <a href="https://www.linkedin.com/in/angeloschronis/"> Angelos Chronis </a>
-        </div>
-        <div style="style="width:30%;" width=30%">
-            <a href="https://www.linkedin.com/in/serjoscha-d%C3%BCring-920644173/">
-            <img src="https://www.iaacblog.com/wp-content/uploads/2019/10/5-2-730x730.jpg" alt="Serjoscha Düring" width=30% style="filter: grayscale(100%);"></a>
-            <a href="https://www.linkedin.com/in/serjoscha-d%C3%BCring-920644173/"> Serjoscha Düring </a>
-        </div>
-        <div style="width:30%;" width=30%>
-            <a href="https://www.linkedin.com/in/stanislava-fedorova/">
-            <img src="https://media.licdn.com/dms/image/C4D03AQF595KPmlY2XA/profile-displayphoto-shrink_800_800/0/1663951677012?e=1691020800&v=beta&t=jFRN_EsKThcL3ObyotLuuvh7ZL_Bg4QwqXFD2JuaCZw" alt="Stasja Fedorova" width=30% style="filter: grayscale(100%);"></a>
-            <a href="https://www.linkedin.com/in/stanislava-fedorova/"> Stasja Fedorova </a>
-        </div>
+        <a href="https://www.linkedin.com/in/angeloschronis/">
+          <img src="https://i1.rgstatic.net/ii/profile.image/804508145823746-1568821097827_Q512/Angelos-Chronis.jpg" style="filter: grayscale(100%);" alt="Angelos Chronis" width=30% style="filter: grayscale(100%);">
+        </a>
+        <a href="https://www.linkedin.com/in/serjoscha-d%C3%BCring-920644173/">
+          <img src="https://www.iaacblog.com/wp-content/uploads/2019/10/5-2-730x730.jpg" alt="Serjoscha Düring" width=30% style="filter: grayscale(100%);">
+        </a>
+        <a href="https://www.linkedin.com/in/stanislava-fedorova/">
+          <img src="https://media.licdn.com/dms/image/C4D03AQF595KPmlY2XA/profile-displayphoto-shrink_800_800/0/1663951677012?e=1691020800&v=beta&t=jFRN_EsKThcL3ObyotLuuvh7ZL_Bg4QwqXFD2JuaCZw" alt="Stasja Fedorova" width=30% style="filter: grayscale(100%);">
+        </a>
     </div>
 </div>
 
