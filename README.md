@@ -173,8 +173,9 @@ AUTHORNAME - [@AUTHORNAME](https://github.com/AUTHORNAME) - [e-mail](mailto:samp
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgements
 
-<div style="display:flex; flex:wrap; flex-direction: column; width:100%; justify-content:center; margin-top:30px">
-    <div style="display:flex; flex:wrap; flex-direction: column; width:60%; justify-content:left; margin-left:10px">
+<br />
+<div style="display:flex; flex:wrap; flex-direction: column; width:100%; justify-content:center; margin-top:30px" width=100%>
+    <div style="width:60%;" width=60%>
         <a href="https://iaac.net">
             <img src="https://globalschool.iaac.net/wp-content/uploads/2019/02/IAAClogo2.png">
         </a>
