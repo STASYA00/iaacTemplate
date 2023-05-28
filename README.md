@@ -172,14 +172,15 @@ AUTHORNAME - [@AUTHORNAME](https://github.com/AUTHORNAME) - [e-mail](mailto:samp
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgements
+
 <div style="display:flex; flex:wrap; flex-direction: column; width:100%; justify-content:center; margin-top:30px">
-    <div  style="display:flex; flex:wrap; flex-direction: column; width:60%; justify-content:left; margin-left:10px">
+    <div style="display:flex; flex:wrap; flex-direction: column; width:60%; justify-content:left; margin-left:10px">
         <a href="https://iaac.net">
             <img src="https://globalschool.iaac.net/wp-content/uploads/2019/02/IAAClogo2.png">
         </a>
     </div>
-    <div style="display:flex; flex:wrap; justify-content:space-around; --w:100%">
-        <div style="display:flex; flex:wrap; flex-direction: column; width:30%; justify-content:center; align-content:center;">
+    <div style="display:flex; flex-direction: row; flex:wrap; justify-content:space-around;">
+        <div style="display:flex; flex:wrap; flex-direction: column; width:30%; justify-content:center;">
             <a href="https://www.linkedin.com/in/angeloschronis/">
             <img src="https://i1.rgstatic.net/ii/profile.image/804508145823746-1568821097827_Q512/Angelos-Chronis.jpg" style="filter: grayscale(100%);" alt="Angelos Chronis" width=250 style="filter: grayscale(100%);"></a>
             <a href="https://www.linkedin.com/in/angeloschronis/"> Angelos Chronis </a>
