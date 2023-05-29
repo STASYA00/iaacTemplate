@@ -41,6 +41,7 @@
       <ul>
       <li><a href="#intro">Intro</a></li>
         <li><a href="#built-with">Built With</a></li>
+        <li><a href="#methodology">Methodology</a></li>
       </ul>
     </li>
     <li>
@@ -54,8 +55,11 @@
     <li><a href="#future-work">Future work</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
-    <li><a href="#more-acknowledgements">More acknowledgements</a></li>
+    <li><a href="#team">Team</a></li>
+    <ul>
+        <li><a href="#supervisors">Supervisors</a></li>
+      </ul>
+    <li><a href="#acknowledgements">More acknowledgements</a></li>
   </ol>
 </details>
 
@@ -108,6 +112,10 @@ A longer description of the project, not more than 150 words.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+### Methodology
+
+![Methodology](assets/methodology.svg)
 
 
 <!-- GETTING STARTED -->
@@ -171,29 +179,45 @@ AUTHORNAME - [@AUTHORNAME](https://github.com/AUTHORNAME) - [e-mail](mailto:samp
 
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgements
+## Team
 
 <br />
 <div style="width:100;" width=100%>
     <div>
         <a href="https://iaac.net">
-            <img src="https://globalschool.iaac.net/wp-content/uploads/2019/02/IAAClogo2.png" width=60.5%>
+            <img src="https://images.ctfassets.net/81iqaqpfd8fy/3r4flvP8Z26WmkMwAEWEco/870554ed7577541c5f3bc04942a47b95/78745131.jpg?w=1200&h=1200&fm=jpg&fit=fill" height=200px>
+        </a>
+      <a href="https://iaac.net">
+            <img src="https://images.ctfassets.net/81iqaqpfd8fy/3r4flvP8Z26WmkMwAEWEco/870554ed7577541c5f3bc04942a47b95/78745131.jpg?w=1200&h=1200&fm=jpg&fit=fill" height=200px>
+        </a>
+      <a href="https://iaac.net">
+            <img src="https://images.ctfassets.net/81iqaqpfd8fy/3r4flvP8Z26WmkMwAEWEco/870554ed7577541c5f3bc04942a47b95/78745131.jpg?w=1200&h=1200&fm=jpg&fit=fill" height=200px>
         </a>
     </div>
+  <h3>Supervisors</h3>
+  <br />
     <div style="display:flex; flex-direction: row; flex:wrap; justify-content:space-around;">
         <a href="https://www.linkedin.com/in/angeloschronis/">
-          <img src="https://i1.rgstatic.net/ii/profile.image/804508145823746-1568821097827_Q512/Angelos-Chronis.jpg" style="filter: grayscale(100%);" alt="Angelos Chronis" width=30% style="filter: grayscale(100%);">
+          <img src="https://i1.rgstatic.net/ii/profile.image/804508145823746-1568821097827_Q512/Angelos-Chronis.jpg" style="filter: grayscale(100%);" alt="Angelos Chronis" height=200px style="filter: grayscale(100%);">
         </a>
         <a href="https://www.linkedin.com/in/serjoscha-d%C3%BCring-920644173/">
-          <img src="https://www.iaacblog.com/wp-content/uploads/2019/10/5-2-730x730.jpg" alt="Serjoscha Düring" width=30% style="filter: grayscale(100%);">
+          <img src="https://www.iaacblog.com/wp-content/uploads/2019/10/5-2-730x730.jpg" alt="Serjoscha Düring" height=200px style="filter: grayscale(100%);">
         </a>
         <a href="https://www.linkedin.com/in/stanislava-fedorova/">
-          <img src="https://media.licdn.com/dms/image/C4D03AQF595KPmlY2XA/profile-displayphoto-shrink_800_800/0/1663951677012?e=1691020800&v=beta&t=jFRN_EsKThcL3ObyotLuuvh7ZL_Bg4QwqXFD2JuaCZw" alt="Stasja Fedorova" width=30% style="filter: grayscale(100%);">
+          <img src="https://media.licdn.com/dms/image/C4D03AQF595KPmlY2XA/profile-displayphoto-shrink_800_800/0/1663951677012?e=1691020800&v=beta&t=jFRN_EsKThcL3ObyotLuuvh7ZL_Bg4QwqXFD2JuaCZw" alt="Stasja Fedorova" height=200px style="filter: grayscale(100%);">
         </a>
     </div>
 </div>
 
-### More acknowledgements
+## Acknowledgements
+
+<br />
+<div>
+        <a href="https://iaac.net">
+            <img src="https://globalschool.iaac.net/wp-content/uploads/2019/02/IAAClogo2.png" width=60.5%>
+        </a>
+    </div>
+    <br />
 * [Best README template](https://github.com/othneildrew/Best-README-Template)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
