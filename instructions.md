@@ -2,7 +2,7 @@
 
 ## Intro
 
-It would have been great if everyone could make a website and a demo of their projects - but it's a dream version of this course :wink:. __The MVP__ is for everyone to have a github repo with a project description and a notebook with the code. This way the projects will be presentable to the wider audience and easier to share:star:. We will then collect the projects under an organization.
+It would have been great if everyone could make a website and a demo of their projects - but it's a dream version of this course :wink:. __The MVP__ is for everyone to have a github repo with a project description and a notebook with the code. This way the projects will be presentable to the wider audience and easier to share:star:. We will then collect the projects under a GitHub organization.
 
 ## Getting started
 
@@ -76,6 +76,7 @@ Now the README has some missing links. These files should be added to the repo -
     ```![Logo of the project](assets/logo.svg)```
 
 * __Bonus:__ if you want to add a video, go for drag-and-drop from [this article](https://medium.com/huawei-developers/how-to-add-an-embedded-video-on-github-readme-file-450f83be157a)
+* Delete the folder ```assets/instructions``` and the file ```instructions.md```. __Make sure you delete only the instruction files.__
 
 
 ## Resources
