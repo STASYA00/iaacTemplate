@@ -204,7 +204,7 @@ AUTHORNAME - [@AUTHORNAME](https://github.com/AUTHORNAME) - [e-mail](mailto:samp
           <img src="https://www.iaacblog.com/wp-content/uploads/2019/10/5-2-730x730.jpg" alt="Serjoscha Düring" height=200px style="filter: grayscale(100%);">
         </a>
         <a href="https://www.linkedin.com/in/stanislava-fedorova/">
-          <img src="https://media.licdn.com/dms/image/C4D03AQF595KPmlY2XA/profile-displayphoto-shrink_800_800/0/1663951677012?e=1691020800&v=beta&t=jFRN_EsKThcL3ObyotLuuvh7ZL_Bg4QwqXFD2JuaCZw" alt="Stasja Fedorova" height=200px style="filter: grayscale(100%);">
+          <img src="https://static.wixstatic.com/media/4d56b6_5a0f0efb68334af6b44ac780b9b62a7a~mv2.jpg/v1/crop/x_350,y_0,w_1000,h_700/fill/w_540,h_540,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/2022_09_22_The_Labratory_Portraits_0801_light.jpg" alt="Stasja Fedorova" height=200px style="filter: grayscale(100%);">
         </a>
     </div>
 </div>
